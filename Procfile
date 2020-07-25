@@ -1,2 +1,2 @@
 release: python3 manage.py migrate
-web: gunicorn producthunt-project.wsgi
+web: gunicorn producthunt.wsgi
