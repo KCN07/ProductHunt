@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'producthuntdb',
         'USER': 'postgres',
-        'PASSWORD': 'kaniz10742',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '5432',
     }
